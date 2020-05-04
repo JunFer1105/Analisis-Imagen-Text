@@ -6,7 +6,7 @@
       prominent
       color="teal"
       >
-      <v-toolbar-title>Fabrica de memes</v-toolbar-title>
+      <v-toolbar-title>Analisis Imagen-Texto</v-toolbar-title>
     </v-toolbar>
   </div>
 
